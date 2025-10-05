@@ -1,5 +1,5 @@
 <div style="text-align: center; background: transparent;">
-  <img src="assets/logo_blue.png" alt="logo" width="200" style="background: transparent;">
+  <img src="assets/logo_3.png" alt="logo" width="200" style="background: transparent;">
 
 [![open issues](https://img.shields.io/github/issues/shaoxiawjc/SE-Project.svg)](https://github.com/shaoxiawjc/SE-Project/issues)
 [![closed issues](https://img.shields.io/github/issues-closed-raw/shaoxiawjc/SE-Project.svg)](https://github.com/shaoxiawjc/SE-Project/issues)
