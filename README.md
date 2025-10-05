@@ -327,6 +327,58 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 </tr>
 </table>
 
+## 👤 余佳兴
+
+<table>
+<tr>
+<td width="100px">
+  <img src="https://avatars.githubusercontent.com/u/231824123?v=4" alt="avatar" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+### 📝 基本介绍
+福州大学计算机专业类的一名学生
+
+### 🚀 技能
+掌握C/C++， Python， Java
+
+### 🎯 未来三年规划
+做好毕业设计，完成大学学业
+
+梭哈11408
+
+</td>
+</tr>
+</table>
 
 
 ## 产品经理
+
+## 👤 李响
+
+<table>
+<tr>
+<td width="100px">
+  <img src="https://avatars.githubusercontent.com/u/146504980?s=400&u=2df2f50b13ed1c6e590797e5866f6c4ad7d8563e&v=4" alt="avatar" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+### 📝 基本介绍
+
+-福州大学计算机科学与技术专业大三学生。
+
+-fps重度爱好者，CS大地球。
+
+### 🚀 技能
+-熟练掌握C,C++。
+
+-初步掌握 Python、Java。
+
+-擅长制作PPT。
+
+### 🎯 未来三年规划
+-学习计算机知识提升自己
+
+</td>
+</tr>
+</table>
