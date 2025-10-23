@@ -1,0 +1,12 @@
+[submodule "hw2/mcp-client"]
+	path = hw2/mcp-client
+	url = https://github.com/FZU-YOROZUYA/MCP-Client.git
+[submodule "hw2/mcp-tools"]
+	path = hw2/mcp-tools
+	url = git@github.com:FZU-YOROZUYA/MCP-Tools.git
+[submodule "hw2/mcp-server"]
+	path = hw2/mcp-server
+	url = git@github.com:FZU-YOROZUYA/Mcp-Server.git
+[submodule "hw2/mcp-frontend"]
+	path = hw2/mcp-frontend
+	url = git@github.com:FZU-YOROZUYA/MCP-Frontend.git
