@@ -10,3 +10,6 @@
 [submodule "hw2/mcp-frontend"]
 	path = hw2/mcp-frontend
 	url = git@github.com:FZU-YOROZUYA/MCP-Frontend.git
+[submodule "awesome_cs/AwesomeCS-Backend"]
+	path = awesome_cs/AwesomeCS-Backend
+	url = git@github.com:FZU-YOROZUYA/AwesomeCS-Backend.git
